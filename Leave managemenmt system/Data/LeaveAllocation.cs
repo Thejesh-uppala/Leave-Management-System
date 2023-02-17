@@ -1,6 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using Leave_managemenmt_system.Data;
+using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Leave_managemenmt_system.Data
+namespace Leave_management_system.Data
 {
     public class LeaveAllocation : BaseEntity
     {

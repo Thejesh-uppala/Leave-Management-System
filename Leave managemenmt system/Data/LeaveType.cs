@@ -1,4 +1,6 @@
-﻿namespace Leave_managemenmt_system.Data
+﻿using Leave_managemenmt_system.Data;
+
+namespace Leave_management_system.Data
 {
     public class LeaveType : BaseEntity
     {

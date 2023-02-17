@@ -1,4 +1,4 @@
-﻿using Leave_managemenmt_system.Models;
+﻿using Leave_management_system.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 

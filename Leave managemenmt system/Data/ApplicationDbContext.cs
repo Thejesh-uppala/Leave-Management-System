@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace Leave_managemenmt_system.Data
+namespace Leave_management_system.Data
 {
     public class ApplicationDbContext : IdentityDbContext<Employee>
     {
